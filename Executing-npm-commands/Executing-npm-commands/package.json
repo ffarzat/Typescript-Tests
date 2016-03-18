@@ -1,0 +1,13 @@
+{
+  "name": "Executing-npm-commands",
+  "version": "0.0.0",
+  "description": "Executing-npm-commands",
+  "main": "app.js",
+  "author": {
+    "name": "Fabio",
+    "email": ""
+  },
+  "dependencies": {
+    "npm": "^3.8.1"
+  }
+}

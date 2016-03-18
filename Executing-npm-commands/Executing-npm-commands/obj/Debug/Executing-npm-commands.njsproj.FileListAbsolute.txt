@@ -1,0 +1,1 @@
+c:\users\fabio\documents\visual studio 2015\Projects\Executing-npm-commands\Executing-npm-commands\bin\Microsoft.NodejsTools.WebRole.dll
