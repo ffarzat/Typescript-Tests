@@ -1,0 +1,18 @@
+{
+  "name": "Karma-Testes",
+  "version": "0.0.0",
+  "description": "Karma-Testes",
+  "main": "app.js",
+  "author": {
+    "name": "Fabio",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "esprima": "^2.7.2",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-qunit": "^0.1.9",
+    "qunit": "^0.9.0"
+  }
+}

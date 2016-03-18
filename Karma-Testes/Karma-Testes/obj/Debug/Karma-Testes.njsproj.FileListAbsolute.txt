@@ -1,0 +1,2 @@
+c:\users\fabio\documents\visual studio 2015\Projects\Karma-Testes\Karma-Testes\obj\Debug\Karma-Testes.njsprojResolveAssemblyReference.cache
+c:\users\fabio\documents\visual studio 2015\Projects\Karma-Testes\Karma-Testes\bin\Microsoft.NodejsTools.WebRole.dll

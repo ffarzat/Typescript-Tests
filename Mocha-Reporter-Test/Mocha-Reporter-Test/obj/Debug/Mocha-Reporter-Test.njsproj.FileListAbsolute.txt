@@ -1,0 +1,2 @@
+c:\users\fabio\documents\visual studio 2015\Projects\Mocha-Reporter-Test\Mocha-Reporter-Test\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Fabio\documents\visual studio 2015\Projects\Mocha-Reporter-Test\Mocha-Reporter-Test\obj\Debug\Mocha-Reporter-Test.njsprojResolveAssemblyReference.cache
